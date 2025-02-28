@@ -1,0 +1,18 @@
+<form action="/search">
+        <div>
+            <input  name="book_id" type="number" placeholder="Enter your id" >
+            </div>
+            <br>
+    <input name="title" type="text" placeholder="Enter your title"  >
+    </div>
+    
+    <br>
+    <div>
+    <input name="author" type="text" placeholder="Enter your author" >
+    </div>
+<br>
+    <div><input name="genre" type="text" placeholder="enter your genre"  ></div>
+    <div><input name="number_of_copies" type="number" placeholder="enter no. of copies"  ></div>
+    
+    <div><input type="submit" value="search"></div>
+    </form>
